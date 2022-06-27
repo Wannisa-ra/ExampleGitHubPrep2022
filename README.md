@@ -92,16 +92,17 @@ Instruction
 
 
 
-### Built With
+### Example
+<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+Hi! I'm Mon. I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+- :telescope: I’m working as a Programmer in ICT Faculty Mahidol University and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring New knowledge and Playing new games. 
+
+- :zap: In my free time, I will play Genshin Impact...
+
+- :mailbox:How to reach me: [![Facebook Link](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/bm.dekkaset/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
