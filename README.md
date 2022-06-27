@@ -57,7 +57,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Introduce">Introduce My Self</a></li>
+        <li><a href="#Introduce-My-Self">Introduce My Self</a></li>
       </ul>
     </li>
     <li><a href="#Installation">Installation</a></li>
@@ -85,7 +85,7 @@ Reference
 
 
 
-### Introduce
+### Introduce My Self
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
