@@ -88,6 +88,11 @@ Instruction
 3. Commit your changes
 4. push to remote repository
 
+
+Reference
+- [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -111,18 +116,9 @@ Hi! I'm Mon. I'm a Full Stack Developer from Thailand.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+- Clone the repo
    ```sh
    git clone https://github.com/pcbimon/ExampleGitHubPrep2022.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
