@@ -32,10 +32,10 @@
     <img src="https://pbs.twimg.com/media/ErGRRIFXcAIhctR.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Example Github Project</h3>
 
   <p align="center">
-    project_description
+    This is project example for DST Example Training
     <br />
     <a href="https://github.com/pcbimon/ExampleGitHubPrep2022"><strong>Explore the docs »</strong></a>
     <br />
