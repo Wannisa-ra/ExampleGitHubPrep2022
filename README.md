@@ -81,9 +81,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This Project will play on Github.
+Instruction
+1. Create your own readme.me file and rename to `Readme_NickName.md`
+2. Fill Your Personal Information (not require Real!!!!)
+3. Commit your changes
+4. push to remote repository
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -193,22 +196,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
 Project Link: [https://github.com/pcbimon/ExampleGitHubPrep2022](https://github.com/pcbimon/ExampleGitHubPrep2022)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
