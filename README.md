@@ -93,8 +93,10 @@ Instruction
 
 
 ### Example
-<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
-Hi! I'm Mon. I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+Hi! I'm Mon. I'm a Full Stack Developer from Thailand.
 
 - :telescope: I’m working as a Programmer in ICT Faculty Mahidol University and contributing to frontend and backend for building web applications.
 
