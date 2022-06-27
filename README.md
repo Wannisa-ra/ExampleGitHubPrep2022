@@ -71,7 +71,7 @@
 
 This Project will play on Github.
 Instruction
-1. Create your own readme.me file and rename to `README_NickName.md`
+1. Create your own readme.me file and rename to `README_65XXXXX_NickName.md`
 2. Fill Your Personal Information (not require Real!!!!)
 3. Commit your changes
 4. push to remote repository
